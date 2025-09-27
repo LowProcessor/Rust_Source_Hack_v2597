@@ -1,0 +1,5 @@
+﻿  KInjector.cpp
+e:\repos\innenprogrammerost\innenprogrammerost\kinjector.cpp(32): warning C4473: "printf": передано недостаточно аргументов для строки формата
+  e:\repos\innenprogrammerost\innenprogrammerost\kinjector.cpp(32): note: заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 0
+  e:\repos\innenprogrammerost\innenprogrammerost\kinjector.cpp(32): note: отсутствующий вариативный аргумент "1" требуется для строки форматирования "%d"
+  InnenProgrammeRost.vcxproj -> E:\repos\InnenProgrammeRost\Debug\InnenProgrammeRost.exe

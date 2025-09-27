@@ -1,0 +1,37 @@
+﻿  dllMain.cpp
+e:\repos\innenprogrammerost\dll_den_rost\rw_function.h(35): warning C4477: "printf": в строке форматирования "%x" требуется аргумент типа "unsigned int", но вариативный аргумент "1" имеет тип "DWORD64"
+  e:\repos\innenprogrammerost\dll_den_rost\rw_function.h(35): note: рекомендуется использовать "%llx" в строке форматирования
+  e:\repos\innenprogrammerost\dll_den_rost\rw_function.h(35): note: рекомендуется использовать "%Ix" в строке форматирования
+  e:\repos\innenprogrammerost\dll_den_rost\rw_function.h(35): note: рекомендуется использовать "%I64x" в строке форматирования
+e:\repos\innenprogrammerost\dll_den_rost\rw_function.h(37): warning C4477: "printf": в строке форматирования "%x" требуется аргумент типа "unsigned int", но вариативный аргумент "1" имеет тип "DWORD64"
+  e:\repos\innenprogrammerost\dll_den_rost\rw_function.h(37): note: рекомендуется использовать "%llx" в строке форматирования
+  e:\repos\innenprogrammerost\dll_den_rost\rw_function.h(37): note: рекомендуется использовать "%Ix" в строке форматирования
+  e:\repos\innenprogrammerost\dll_den_rost\rw_function.h(37): note: рекомендуется использовать "%I64x" в строке форматирования
+e:\repos\innenprogrammerost\dll_den_rost\rw_function.h(39): warning C4477: "printf": в строке форматирования "%x" требуется аргумент типа "unsigned int", но вариативный аргумент "1" имеет тип "DWORD64"
+  e:\repos\innenprogrammerost\dll_den_rost\rw_function.h(39): note: рекомендуется использовать "%llx" в строке форматирования
+  e:\repos\innenprogrammerost\dll_den_rost\rw_function.h(39): note: рекомендуется использовать "%Ix" в строке форматирования
+  e:\repos\innenprogrammerost\dll_den_rost\rw_function.h(39): note: рекомендуется использовать "%I64x" в строке форматирования
+e:\repos\innenprogrammerost\dll_den_rost\decryption_function.h(23): warning C4319: ~: нулевое расширение "T" в "T" большего размера
+          with
+          [
+              T=uint32_t
+          ]
+          and
+          [
+              T=uintptr_t
+          ]
+e:\repos\innenprogrammerost\dll_den_rost\decryption_function.h(43): warning C4244: =: преобразование "uint64_t" в "uint32_t", возможна потеря данных
+e:\repos\innenprogrammerost\dll_den_rost\decryption_function.h(44): warning C4244: аргумент: преобразование "uint64_t" в "int32_t", возможна потеря данных
+e:\repos\innenprogrammerost\dll_den_rost\decryption_function.h(61): warning C4244: =: преобразование "uint64_t" в "uint32_t", возможна потеря данных
+e:\repos\innenprogrammerost\dll_den_rost\decryption_function.h(62): warning C4244: аргумент: преобразование "uint64_t" в "int32_t", возможна потеря данных
+e:\repos\innenprogrammerost\dll_den_rost\neutypedatei.h(43): warning C4091: typedef : пропускается слева от "Vector4", когда ни одна переменная не объявлена
+e:\repos\innenprogrammerost\dll_den_rost\neutypedatei.h(47): warning C4091: typedef : пропускается слева от "TransformAccessReadOnly", когда ни одна переменная не объявлена
+e:\repos\innenprogrammerost\dll_den_rost\neutypedatei.h(52): warning C4091: typedef : пропускается слева от "TransformData", когда ни одна переменная не объявлена
+e:\repos\innenprogrammerost\dll_den_rost\neutypedatei.h(59): warning C4091: typedef : пропускается слева от "Matrix34", когда ни одна переменная не объявлена
+e:\repos\innenprogrammerost\dll_den_rost\esp.h(52): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+e:\repos\innenprogrammerost\dll_den_rost\function.h(127): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+e:\repos\innenprogrammerost\dll_den_rost\function.h(128): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+e:\repos\innenprogrammerost\dll_den_rost\function.h(129): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+e:\repos\innenprogrammerost\dll_den_rost\dllmain.cpp(22): warning C4311: приведение типов: усечение указателя из "HBRUSH" в "COLORREF"
+e:\repos\innenprogrammerost\dll_den_rost\dllmain.cpp(22): warning C4302: приведение типов: усечение из "HBRUSH" к "COLORREF"
+  dll_den_Rost.vcxproj -> E:\repos\InnenProgrammeRost\x64\Debug\dll_den_Rost.dll

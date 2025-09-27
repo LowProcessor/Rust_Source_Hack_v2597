@@ -1,0 +1,7 @@
+﻿  KInjector.cpp
+e:\repos\innenprogrammerost\innenprogrammerost\kinjector.cpp(32): warning C4244: аргумент: преобразование "DWORD64" в "DWORD", возможна потеря данных
+e:\repos\innenprogrammerost\innenprogrammerost\kinjector.cpp(45): warning C4477: "printf": в строке форматирования "%x" требуется аргумент типа "unsigned int", но вариативный аргумент "1" имеет тип "DWORD64"
+  e:\repos\innenprogrammerost\innenprogrammerost\kinjector.cpp(45): note: рекомендуется использовать "%llx" в строке форматирования
+  e:\repos\innenprogrammerost\innenprogrammerost\kinjector.cpp(45): note: рекомендуется использовать "%Ix" в строке форматирования
+  e:\repos\innenprogrammerost\innenprogrammerost\kinjector.cpp(45): note: рекомендуется использовать "%I64x" в строке форматирования
+  InnenProgrammeRost.vcxproj -> E:\repos\InnenProgrammeRost\x64\Debug\InnenProgrammeRost.exe
